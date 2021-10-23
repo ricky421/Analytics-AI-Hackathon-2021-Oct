@@ -1,0 +1,3 @@
+Requirements:
+
+Classic ML libraries such as tensorflow, pytorch, numpy, PIL, cv2.
